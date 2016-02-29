@@ -91,7 +91,6 @@ def Menu():
     return choice
 
 
-# Call the subroutines
 if __name__ == "__main__":
     while choice != "q":
         choice = Menu()
